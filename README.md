@@ -1,4 +1,4 @@
-# **2-Player Casino Game**
+# **B:2-Player Casino Game**
 ## **Overview**
 This project is a 2-player casino game implemented on a Cypress programmable SoC using C programming language. The game utilizes an ADC (Analog-to-Digital Converter) and an LCD module for player input and output. Each player takes turns turning the ADC knob, which converts the player's move into a power move. If a player lands on a prime number, they hit a master move; otherwise, they make a normal move. To efficiently detect prime numbers, the Sieve of Eratosthenes competitive programming algorithm is used, reducing computation time. 
 
