@@ -111,7 +111,7 @@ This project is a 2-player casino game implemented on a Cypress programmable SoC
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# **C.Lock Unlocker**
+# **C. Folder-Lock**
 ## **Overview**
 This project is a lock unlocker implemented using MATLAB GUI for user interaction and a Cypress programmable SoC with an LCD module for displaying the status of the lock. The user enters the password through the MATLAB GUI, which is then sent serially via UART communication to the Cypress PSoC microcontroller. The microcontroller verifies the password and displays a message on the LCD whether the lock is unlocked or not.
 
