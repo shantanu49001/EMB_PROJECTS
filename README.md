@@ -1,3 +1,56 @@
+# A: 2-Player Toggle Ping Pong Game
+
+## Overview
+This project is a 2-player toggle ping pong game implemented on a Cypress programmable SoC using C programming language for the hardware side and MATLAB GUI library for the graphical user interface. The game utilizes the touch pads on the Cypress development board for player input, which are converted into characters and sent serially via UART between the PSoC code and the GUI. Each player takes turns tapping the touch pads to control the paddles in the game. The game interface is designed using MATLAB GUI components to provide a user-friendly experience.
+
+## Features
+- 2-player toggle ping pong game with touch pad control.
+- MATLAB GUI library for graphical user interface.
+- Serial communication via UART between PSoC code and MATLAB GUI.
+- Responsive gameplay with real-time paddle control.
+
+## GUI Image
+![GUI Image](https://github.com/shantanu49001/EMB_PROJECTS_PSOC/blob/main/CYPRESS_PSOC_03_TOGGLE_GAME/O1.png)
+
+## Requirements
+- Cypress programmable SoC development board.
+- MATLAB installed with GUI library support.
+- USB cable for programming and power supply.
+
+## Installation and Setup
+1. Clone or download the project repository from GitHub.
+2. Open the MATLAB GUI file in MATLAB.
+3. Compile and run the MATLAB GUI.
+4. Open the PSoC project in Cypress PSoC Creator or your preferred development environment.
+5. Compile the source code to generate the binary file.
+6. Flash the binary file onto the Cypress programmable SoC.
+7. Connect the necessary hardware components (touch pads) to the development board.
+8. Power on the development board.
+
+## Flow Diagram
+![Flow Diagram](https://github.com/shantanu49001/EMB_PROJECTS_PSOC/blob/main/CYPRESS_PSOC_03_TOGGLE_GAME/flow.jpg)
+
+## Pin Configuration
+![Pin Configuration](https://github.com/shantanu49001/EMB_PROJECTS_PSOC/blob/main/CYPRESS_PSOC_03_TOGGLE_GAME/PIN.jpg)
+
+## Schematic Diagram
+![Schematic Diagram](https://github.com/shantanu49001/EMB_PROJECTS_PSOC/blob/main/CYPRESS_PSOC_03_TOGGLE_GAME/SCHEMATIC.png)
+
+## Usage
+1. Power on the Cypress programmable SoC.
+2. Run the MATLAB GUI on your computer.
+3. The GUI will display the game interface.
+4. Players take turns tapping the touch pads to control the paddles.
+5. The game continues until a player reaches a predetermined winning condition or until the game is manually stopped.
+6. Enjoy playing the 2-player toggle ping pong game!
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
 # **B:2-Player Casino Game**
 ## **Overview**
 This project is a 2-player casino game implemented on a Cypress programmable SoC using C programming language. The game utilizes an ADC (Analog-to-Digital Converter) and an LCD module for player input and output. Each player takes turns turning the ADC knob, which converts the player's move into a power move. If a player lands on a prime number, they hit a master move; otherwise, they make a normal move. To efficiently detect prime numbers, the Sieve of Eratosthenes competitive programming algorithm is used, reducing computation time. 
@@ -51,6 +104,11 @@ This project is a 2-player casino game implemented on a Cypress programmable SoC
 4. If a player lands on a prime number, they hit a master move; otherwise, they make a normal move.
 5. The game continues until a player reaches a predetermined winning condition or until the game is manually stopped.
 6. Enjoy playing the 2-player casino game!
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 # **C.Lock Unlocker**
