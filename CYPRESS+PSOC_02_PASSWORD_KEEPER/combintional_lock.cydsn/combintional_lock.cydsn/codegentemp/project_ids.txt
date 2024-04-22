@@ -1,0 +1,6 @@
+C:\Users\91961\Desktop\embedded_lab\PSOC_EC32\Workspace01\combintional_lock.cydsn\combintional_lock.cyprj|0ff18ac4-b22e-4d2e-b9f7-67c5b63471d1
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|7113cf86-3044-44d8-b8d0-7585e73f16f2
+C:\Users\91961\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|1d2b4dba-1487-4317-83c8-86fb96866907
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|611a9c0f-f39b-486b-b554-3e5093fc3cb3
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|092b8b6b-0ad3-4657-b9c5-48333431b50b
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|bd617de7-f5a1-475c-832e-e4a23aecb374

@@ -1,0 +1,6 @@
+D:\OneDrive\Desktop\proj\Design01.cydsn\Design01.cyprj|32742174-f430-454e-8a1e-eebd3088ed83
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|ded77710-dd5b-4a7f-ad74-5981cd4c22b4
+C:\Users\LENOVO L 340  7LIN\OneDrive\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|07d65744-9c01-44a1-a264-d21bc0a834be
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|c24507d3-2448-434e-bf1f-97fc461a0bb5
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|056622a0-df12-4f31-9bd5-86f1306d7b26
+D:\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|79d6dcb8-b1ac-4099-bb07-57d4f86a0504

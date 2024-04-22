@@ -1,0 +1,152 @@
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/ADC.o : D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC.c D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC_theACLK.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyLib.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CySpc.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyPm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC.c : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC_theACLK.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyLib.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CySpc.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyPm.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cytypes.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_Bypass.o : D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC_Bypass.c D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC_Bypass.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC_Bypass_aliases.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cypins.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC_Bypass.c : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC_Bypass.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC_Bypass_aliases.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cypins.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_INT.o : D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC_INT.c D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cytypes.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/cyapicallbacks.h 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC_INT.c : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/cyapicallbacks.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_IRQ.o : D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC_IRQ.c D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC_IRQ.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyLib.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CySpc.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyPm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cytypes.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/cyapicallbacks.h 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC_IRQ.c : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC_IRQ.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_PM.o : D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC_PM.c D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC_PM.c : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_theACLK.o : D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC_theACLK.c D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC_theACLK.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC_theACLK.c : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/Cm3Start.o : D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/Cm3Start.c D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyDmac.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyLib.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CySpc.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyPm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cytypes.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/cyapicallbacks.h 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/Cm3Start.c : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyDmac.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/CyDmac.o : D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyDmac.c D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyDmac.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyLib.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CySpc.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyPm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyDmac.c : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/CyFlash.o : D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyFlash.c D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyLib.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CySpc.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyPm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyFlash.c : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/CyLib.o : D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyLib.c D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyLib.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CySpc.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyPm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyLib.c : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/CySpc.o : D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyLib.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CySpc.c D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CySpc.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyPm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CySpc.c : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/LCD.o : D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyLib.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CySpc.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/LCD.c D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/LCD.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyPm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/LCD.c : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/LCD.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/LCD_LCDPort.o : D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/LCD_LCDPort.c D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/LCD_LCDPort.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/LCD_LCDPort_aliases.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cypins.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/LCD_LCDPort.c : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/LCD_LCDPort.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/LCD_LCDPort_aliases.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/LCD_PM.o : D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/LCD.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/LCD_PM.c D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/LCD_PM.c : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/Pin_1.o : D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/Pin_1.c D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/Pin_1.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/Pin_1_aliases.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cypins.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/Pin_1.c : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/Pin_1.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/Pin_1_aliases.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/Pin_2.o : D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/Pin_2.c D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/Pin_2.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/Pin_2_aliases.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cypins.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/Pin_2.c : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/Pin_2.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/Pin_2_aliases.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/cyPm.o : D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyLib.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CySpc.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyPm.c D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyPm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cytypes.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/cyapicallbacks.h 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyPm.c : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/cy_em_eeprom.o : D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyLib.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CySpc.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyPm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cy_em_eeprom.c D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cy_em_eeprom.c : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/cyfitter_cfg.o : D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyLib.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CySpc.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyPm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyfitter_cfg.c D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cytypes.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/cyapicallbacks.h 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyfitter_cfg.c : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/cymetadata.o : D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cymetadata.c 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cymetadata.c : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/cyutils.o : D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cytypes.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyutils.c 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyutils.c : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/main.o : D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cmsis_armcc.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cmsis_compiler.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cmsis_gcc.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/core_cm3.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydisabledsheets.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/project.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC_Bypass.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC_Bypass_aliases.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC_IRQ.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/ADC_theACLK.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyDmac.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CyLib.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/CySpc.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/LCD.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/LCD_LCDPort.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/LCD_LCDPort_aliases.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/Pin_1.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/Pin_1_aliases.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/Pin_2.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/Pin_2_aliases.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyPm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cypins.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cytypes.h D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/main.c 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cmsis_armcc.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cmsis_compiler.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cmsis_gcc.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/core_cm3.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/cydisabledsheets.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/Generated_Source/PSoC5/project.h : 
+
+D:/OneDrive/Desktop/proj/Design01.cydsn/Design01.cydsn/main.c : 
+

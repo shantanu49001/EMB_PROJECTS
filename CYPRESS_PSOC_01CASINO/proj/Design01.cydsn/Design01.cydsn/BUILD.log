@@ -1,0 +1,75 @@
+--------------- Build Started: 04/16/2024 00:00:35 Project: Design01, Configuration: ARM GCC 5.4-2016-q2-update Debug ---------------
+The code generation step is up to date.
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/main.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c main.c -o .\CortexM3\ARM_GCC_541\Debug\main.o
+main.c:306:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main (){
+      ^
+main.c: In function 'main':
+main.c:309:11: warning: missing terminating " character
+    printf("enter number of elements in an array
+           ^
+main.c:309:4: error: missing terminating " character
+    printf("enter number of elements in an array
+    ^
+main.c:310:1: warning: missing terminating " character
+ ");
+ ^
+main.c:310:1: error: missing terminating " character
+main.c:311:19: error: expected ')' before ';' token
+    scanf("%d", &n);
+                   ^
+main.c:312:11: warning: missing terminating " character
+    printf("Enter the elements
+           ^
+main.c:312:4: error: missing terminating " character
+    printf("Enter the elements
+    ^
+main.c:313:1: warning: missing terminating " character
+ ");
+ ^
+main.c:313:1: error: missing terminating " character
+main.c:325:11: warning: missing terminating " character
+    printf("The numbers in ascending order is:
+           ^
+main.c:325:4: error: missing terminating " character
+    printf("The numbers in ascending order is:
+    ^
+main.c:326:1: warning: missing terminating " character
+ ");
+ ^
+main.c:326:1: error: missing terminating " character
+main.c:328:14: warning: missing terminating " character
+       printf("%d
+              ^
+main.c:328:7: error: missing terminating " character
+       printf("%d
+       ^
+main.c:329:1: warning: missing terminating " character
+ ", num[i]);
+ ^
+main.c:329:1: error: missing terminating " character
+main.c:311:4: warning: passing argument 1 of 'printf' makes pointer from integer without a cast [-Wint-conversion]
+    scanf("%d", &n);
+    ^
+In file included from d:\psoc creator\4.4\psoc creator\import\gnu\arm\5.4.1\arm-none-eabi\include\stdio.h:29:0,
+                 from main.c:305:
+d:\psoc creator\4.4\psoc creator\import\gnu\arm\5.4.1\arm-none-eabi\include\stdio.h:187:5: note: expected 'const char * restrict' but argument is of type 'int'
+ int _EXFUN(printf, (const char *__restrict, ...)
+     ^
+main.c:642:1: error: expected declaration or statement at end of input
+ }
+ ^
+main.c:308:14: warning: unused variable 'a' [-Wunused-variable]
+    int i, j, a, n;
+              ^
+main.c:308:11: warning: unused variable 'j' [-Wunused-variable]
+    int i, j, a, n;
+           ^
+main.c:308:8: warning: unused variable 'i' [-Wunused-variable]
+    int i, j, a, n;
+        ^
+main.c:307:8: warning: unused variable 'num' [-Wunused-variable]
+    int num[20];
+        ^
+The command 'arm-none-eabi-gcc.exe' failed with exit code '1'.
+--------------- Build Failed: 04/16/2024 00:00:39 ---------------
