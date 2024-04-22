@@ -94,9 +94,9 @@ This project is a lock unlocker implemented using MATLAB GUI for user interactio
 
 ## **Output Screenshots**
 ![Screenshot 1](https://github.com/shantanu49001/EMB_PROJECTS_PSOC/blob/main/CYPRESS%2BPSOC_02_PASSWORD_KEEPER/o1.jpg)
-![Screenshot 2](https://github.com/shantanu49001/EMB_PROJECTS_PSOC/blob/main/CYPRESS%2BPSOC_02_PASSWORD_KEEPER/o12jpg)
+![Screenshot 2](https://github.com/shantanu49001/EMB_PROJECTS_PSOC/blob/main/CYPRESS%2BPSOC_02_PASSWORD_KEEPER/o2.jpg)
 ![Screenshot 3](https://github.com/shantanu49001/EMB_PROJECTS_PSOC/blob/main/CYPRESS%2BPSOC_02_PASSWORD_KEEPER/o3.jpg)
-![Screenshot 4](https://github.com/shantanu49001/EMB_PROJECTS_PSOC/blob/main/CYPRESS%2BPSOC_02_PASSWORD_KEEPER/o4jpg)
+![Screenshot 4](https://github.com/shantanu49001/EMB_PROJECTS_PSOC/blob/main/CYPRESS%2BPSOC_02_PASSWORD_KEEPER/o4.jpg)
 
 ## **Usage**
 1. Run the MATLAB GUI.
